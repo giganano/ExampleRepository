@@ -1,0 +1,6 @@
+
+# Every file with a ".out" extension will be ignored by git 
+*.out 
+
+# A specific local script will be ignored 
+somecode/localscript.py 
